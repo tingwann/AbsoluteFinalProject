@@ -8,9 +8,9 @@
 This linebot can record your studying and playing time, and also can remind you to study or take a break.
 
 ## usage
-"study" -> Record tow hours for study.
-"play"  -> Record tow hours for play.
-"reset" -> Reset recording.
-"fsm"   -> show fsm.(After input reset)
-Every time 'user' state is triggered to 'advance' to another state, it will 'not go_back' to user state after the bot replies corresponding message.
+*"study" -> Record tow hours for study.
+*"play"  -> Record tow hours for play.
+*"reset" -> Reset recording.
+*"fsm"   -> show fsm.(After input reset)
+Every time `user` state is triggered to `advance` to another state, it will `not go_back` to user state after the bot replies corresponding message.
 
