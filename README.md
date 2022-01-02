@@ -15,3 +15,8 @@ This linebot can record your studying and playing time, and also can remind you 
 
 Every time `user` state is triggered to `advance` to another state, it will `not go_back` to user state after the bot replies corresponding message.
 
+![example](./img/S__106356745.jpg)
+
+![example](./img/S__106356747.jpg)
+
+![example](./img/S__106356748.jpg)
